@@ -52,14 +52,3 @@ print(str(len(answer_routes) - 1))
 for point in answer_routes:
     print(str(point[0]) + " " + str(point[1]))
 
-# Commented out IPython magic to ensure Python compatibility.
-# 3 9
-# 5 1
-# 7 20
-# %%%%%%%%%%%%%%%%%%%%
-# %--------------%---%
-# %-%%-%%-%%-%%-%%-%-%
-# %--------P-------%-%
-# %%%%%%%%%%%%%%%%%%-%
-# %.-----------------%
-# %%%%%%%%%%%%%%%%%%%%
