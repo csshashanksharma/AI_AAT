@@ -62,7 +62,3 @@ if __name__ == '__main__':
 
     nextMove(player, board)
 
-X
-___
-___
-_XO
